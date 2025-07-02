@@ -1,0 +1,2 @@
+gitHub에 있는 소스를 다운로드
+cursor_test를 만들어서 github에 올릴 방법
